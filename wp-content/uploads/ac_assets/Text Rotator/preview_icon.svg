@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64"><g stroke-width="2" transform="translate(0, 0)"><polygon fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="43,20 58,5 60,22 
+	" stroke-linejoin="miter"></polygon>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M4,32C4,16.536,16.536,4,32,4
+	c7.477,0,14.27,2.931,19.292,7.707" data-cap="butt" stroke-linecap="butt" stroke-linejoin="miter"></path>
+<polygon fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="21,44 6,59 4,42 
+	" data-color="color-2" stroke-linejoin="miter"></polygon>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M60,32c0,15.464-12.536,28-28,28
+	c-7.477,0-14.27-2.931-19.292-7.707" data-cap="butt" data-color="color-2" stroke-linecap="butt" stroke-linejoin="miter"></path>
+</g></svg>
